@@ -1,0 +1,299 @@
+body{
+    color: white;
+    margin: 0;
+    background-color: #040012;
+    font-family: 'Belanosima', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.headicon{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    background-color: #040012;
+    opacity: 90%;
+}
+
+
+
+
+.head{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    color: rgb(121, 218, 121);
+}
+
+.head:hover{
+    cursor: default;
+}
+
+.boxes{
+    margin-top: 150px;
+}
+
+
+.box1{
+    height: 400px;
+    width: 400px;
+    color: black;
+    margin: 10px;
+    border-radius: 50px;
+    background: rgb(120, 167, 51);
+    font-size: 15px;
+    overflow: hidden;
+    cursor: default;
+
+}
+
+.box1:hover{
+    background: white;
+
+}
+
+.text1{
+    margin: 40px;
+
+}
+
+.box2{
+    height: 400px;
+    width: 400px;
+    color: black;
+    margin: 10px;
+    border-radius: 50px;
+    background: rgb(120, 167, 51);
+    font-size: 15px;
+    overflow: hidden;
+    cursor: default;
+
+}
+
+.box2:hover{
+    background: white;
+
+}
+
+.text2{
+    margin: 40px;
+}
+
+
+.text2{
+    margin: 40px;
+}
+
+
+
+.box3{
+    height: 400px;
+    width: 400px;
+    color: black;
+    margin: 10px;
+    border-radius: 50px;
+    background: rgb(120, 167, 51);
+    font-size: 15px;
+    overflow: hidden;
+    cursor: default;
+
+}
+
+.box3:hover{
+    background: white;
+
+}
+
+.text3{
+    margin: 40px;
+
+}
+
+.boxes{
+    display: flex;
+
+}
+
+.ourpr{
+    margin: 20px;
+}
+.prbox{
+    color: black;
+    width: 500px;
+    height: 300px;
+    border: 1px solid;
+    display: grid;
+    margin-right:20px;
+    border-radius: 50px;
+    background: rgb(212, 97, 97);
+    overflow: hidden;
+    cursor: default;
+    
+}
+
+.secnd{
+    display: flex;
+    justify-content: space-between;
+    cursor: default;
+    
+
+}
+.textbox{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-size: 30px;
+}
+
+.ou{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    height: 60px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgb(61, 194, 79);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.ou:hover{
+    background: white;
+}
+
+.textpr{
+ height: 20px;
+ width: 700px;
+}
+
+
+.wish{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    cursor: default;
+}
+
+.book{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.button2{
+    background: linear-gradient(90deg,rgb(96, 182, 96),rgb(114, 114, 202));
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.pr{
+    font-size: 50px;
+    background: linear-gradient(45deg, #22beb6 0%, #1eff00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.foothead{
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.us{
+    margin-left: 140px;
+    line-height: 0px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin: 0px 125px 0px;
+}
+
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.foothead h1{
+    margin: 0px;
+
+
+}
+    
+.textf{
+    /* margin: 0px 130px; */
+    text-decoration: none;
+    color: white;
+
+}
+
+.texts{
+    margin-right: 10px;
+}
+
+hr{
+    margin-top: 10px;
+    width: 1100px;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+
+
+
+.fa-brands{
+    font-size: 20px;
+    text-decoration: none;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px;
+    border-radius: 50px;
+    margin: 5px;
+
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyt{
+    font-size: small;
+    margin-left: 5px;
+}
+
+
+
+    
+
+
+
+
+
